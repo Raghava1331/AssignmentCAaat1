@@ -92,4 +92,3 @@ Python programming for Computer Architecture
 Verification
 The program outputs were checked against manual binary calculations. Both programs can be executed in a Python environment to reproduce the results.
 
-The output.txt file contains the captured output of both programs for verification.
